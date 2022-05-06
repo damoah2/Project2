@@ -4,24 +4,24 @@
         {
             "MusicName":"Lunar Eclipse",
             "MusicArtist":"Purrple Cat",
-            "MusicImage":"",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/lunar_eclipse.jpg",
             "MusicDetail":"℗Lofi Publishing \nReleased on: 2020-12-30 \nProducer: Emma Wilson \nComposer: Emma Wilson \nMusic Publisher: Copyright Control",
             "MusicSite":"https://www.youtube.com/watch?v=VhEkIl2jF_s"
         },
         {
-            "MusicName":"", 
-            "MusicArtist":"",
-            "MusicImage":"",
-            "MusicDetail":"",
-            "MusicSite":""
+            "MusicName":"icarus", 
+            "MusicArtist":"EDEN",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/icarus.jpg",
+            "MusicDetail":"Licensed to YouTube by \nUMG (on behalf of EDEN-Astralwerks); Concord Music Publishing, CMRRA, Warner Chappell, LatinAutorPerf, ASCAP, PEDL, LatinAutor - Warner Chappell, UNIAO BRASILEIRA DE EDITORAS DE MUSICA - UBEM, and 6 Music Rights Societies",
+            "MusicSite":"https://www.youtube.com/watch?v=X5s8TvI1HXU"
         }
 ,
         {
-            "MusicName":"", 
-            "MusicArtist":"",
-            "MusicImage":"",
-            "MusicDetail":"",
-            "MusicSite":""
+            "MusicName":"home alone", 
+            "MusicArtist":"Lucid Green",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/home_alone.jpg",
+            "MusicDetail":"home alone · Lucid Green \n℗ Repost Network \nReleased on: 2018-06-11",
+            "MusicSite":"https://www.youtube.com/watch?v=YOdYmRIq5q8"
         },
         {
             "MusicName":"", 
