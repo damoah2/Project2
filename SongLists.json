@@ -14,8 +14,7 @@
             "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/icarus.jpg",
             "MusicDetail":"Licensed to YouTube by \nUMG (on behalf of EDEN-Astralwerks); Concord Music Publishing, CMRRA, Warner Chappell, LatinAutorPerf, ASCAP, PEDL, LatinAutor - Warner Chappell, UNIAO BRASILEIRA DE EDITORAS DE MUSICA - UBEM, and 6 Music Rights Societies",
             "MusicSite":"https://www.youtube.com/watch?v=X5s8TvI1HXU"
-        }
-,
+        },
         {
             "MusicName":"home alone", 
             "MusicArtist":"Lucid Green",
@@ -45,32 +44,32 @@
             "MusicSite":"https://www.youtube.com/watch?v=F-jRz2jNtZg"
         },
         {
-            "MusicName":"", 
-            "MusicArtist":"",
-            "MusicImage":"",
-            "MusicDetail":"",
-            "MusicSite":""
+            "MusicName":"Through The Fire And Flames", 
+            "MusicArtist":"DragonForce",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/through_the_fire_and_flames.jpg",
+            "MusicDetail":"℗ 2006 Spinefarm Records, a Universal Music Company \nReleased on: 2016-04-29 \nProducer: Sam Totman, Herman Li, and Vadim Pruzhanov \nComposer  Lyricist: ZP Theart, Sam Totman, Herman Li, and Vadim Pruzhanov",
+            "MusicSite":"https://www.youtube.com/watch?v=ntG_EEfpasM"
         },
         {
-            "MusicName":"", 
-            "MusicArtist":"",
-            "MusicImage":"",
-            "MusicDetail":"",
-            "MusicSite":""
+            "MusicName":"Fist Bump", 
+            "MusicArtist":"Douglas Robb From Hoobastank",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/fist_bump.jpg",
+            "MusicDetail":"Fist Bump · Douglas Robb · Douglas Robb · Tomoya Ohtani · Tomoya Ohtani · Takahito Eguchi \nSonic Forces Original Soundtrack A Hero Will Rise \nReleased on: 2017-12-13",
+            "MusicSite":"https://www.youtube.com/watch?v=9ZAfRvPREL0"
         },
         {
-            "MusicName":"", 
-            "MusicArtist":"",
-            "MusicImage":"",
-            "MusicDetail":"",
-            "MusicSite":""
+            "MusicName":"Count What You Have Now", 
+            "MusicArtist":"Vantage",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/count_what_you_have_now.jpg",
+            "MusicDetail":"Count What You Have Now · Vantage \nJ-Funk City : Vantage's Edits Collection \n℗ Neoncity Records \nReleased on: 2019-09-17",
+            "MusicSite":"https://www.youtube.com/watch?v=SvmX053bQZ0"
         },
         {
-            "MusicName":"", 
-            "MusicArtist":"",
-            "MusicImage":"",
-            "MusicDetail":"",
-            "MusicSite":""
+            "MusicName":"Cyberpunk 2077 Soundtrack - I REALLY WANT TO STAY AT YOUR HOUSE", 
+            "MusicArtist":"Rosa Walton & Hallie Coggins",
+            "MusicImage":"https://raw.githubusercontent.com/damoah2/Project2/main/images/I_really_want_to_stay_at_your_house.jpg",
+            "MusicDetail":"Licensed to YouTube by \nKobalt Music Publishing, and 2 Music Rights Societies",
+            "MusicSite":"https://www.youtube.com/watch?v=gzbLODUb1sA"
         }
     ],
     "Status":"OK"
